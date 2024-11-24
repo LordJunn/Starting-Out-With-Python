@@ -1,0 +1,4 @@
+Welcome to the world of Python programming.
+This file contains some different words and phrases.
+It's an example of how files can vary.
+Words like test, code, and example might be present in this file as well.
